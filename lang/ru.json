@@ -1,0 +1,23 @@
+{
+    "Add ticket": "Новый запрос",
+    "Your Name": "Ваше имя",
+    "Your Email": "Ваш адрес электронной почты",
+    "Your ticket has been submitted, we will be in touch. You can view ticket status": "По вашему запросу сформирован новый тикет. Мы с вами обязательно свяжемся. Статус вашего запроса всегда можно проверить",
+    "here": "по этой ссылке",
+    "There are no comments.": "Комментарии отсутствуют.",
+    "Leave a comment": "Оставьте комментарии",
+    "Ticket": "Тикет",
+    "Your comment added successfully": "Комментарии сохранены",
+    "N/A": "Нет",
+    "You're logged in!": "Вы успешно авторизовались!",
+    "Dashboard": "Панель управления",
+    "Total tickets": "Всего запросов",
+    "Open tickets": "Открытых запросов",
+    "Closed tickets": "Закрытых запросов",
+    "Register": "Регистрация",
+    "Name": "Имя",
+    "E-Mail Address": "Адрес Email",
+    "Password": "Пароль",
+    "Confirm Password": "Подтверждение пароля",
+    "Login": "Вход"
+}

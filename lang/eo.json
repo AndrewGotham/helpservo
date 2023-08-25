@@ -1,0 +1,23 @@
+{
+    "Add ticket": "Nova bileto",
+    "Your Name": "Via nomo",
+    "Your Email": "Via retpoŝta adreso",
+    "Your ticket has been submitted, we will be in touch. You can view ticket status": "Via bileto estas sendita, ni kontaktos vin. Vi povas kontroli biletan staton",
+    "here": "ĉi tie",
+    "There are no comments.": "Komentoj mankas.",
+    "Leave a comment": "Komentu ĉi tie",
+    "Ticket": "Bileto",
+    "Your comment added successfully": "Via komento estas konservita",
+    "N/A": "Mankas",
+    "You're logged in!": "Vi estas ensalutinta!",
+    "Dashboard": "Adminpanelo",
+    "Total tickets": "Sumaj Biletoj",
+    "Open tickets": "Malfermaj Biletoj",
+    "Closed tickets": "Fermitaj Biletoj",
+    "Register": "Registriĝi",
+    "Name": "Nomo",
+    "E-Mail Address": "Retpoŝta adreso",
+    "Password": "Pasvorto",
+    "Confirm Password": "Konfirmu pasvorton",
+    "Login": "Ensaluti"
+}
